@@ -1,0 +1,27 @@
+{
+    "0": {
+      "Status": "Active",
+      "Properties": {
+        "Class": "Human",
+        "Location": [56.234, 34.234],
+        "DetectionTime": 546234.12323
+      }
+    },
+    "1": {
+      "Status": "Inactive",
+      "Properties": {
+        "Class": "Car",
+        "Location": [57.2564, 36.234],
+        "DetectionTime": 5434234.12323
+      }
+    },
+    "2": {
+      "Status": "Active",
+      "Properties": {
+        "Class": "Tool",
+        "Location": [56.234, 34.234],
+        "DetectionTime": 346234.12323
+      }
+    }
+  }
+  

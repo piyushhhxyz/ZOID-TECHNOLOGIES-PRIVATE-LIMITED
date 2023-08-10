@@ -1,4 +1,3 @@
-
 import random
 import time
 import threading
@@ -37,5 +36,5 @@ data_thread.start()
 while True:
     print(str(sensor_data)+"\n")
     time.sleep(1)
-sensor_information.py
-Displaying sensor_information.py.
+# sensor_information.py
+# Displaying sensor_information.py.
